@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "cba792679a066806",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dfe39f69c3900fc",
+        "type": "leaf",
+        "dimension": 60.14492753623188,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tools/netsh.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "395b6cfd4cfb13d0",
+        "type": "leaf",
+        "dimension": 39.85507246376812,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "software_engineering/concepts/cryptography.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8d01f57e17a249c",
+    "type": "split",
+    "children": [
+      {
+        "id": "35715e339fc90676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c614a965746a2281",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ee22bc071f1af42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "596b8ecdbc475737",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210
+  },
+  "right": {
+    "id": "a34e062e287ef04b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f5cf64656340b09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaf26e401bcd7a77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tools/netsh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e713cee500c4bf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tools/netsh.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5532e21da544850",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9dfe39f69c3900fc",
+  "lastOpenFiles": [
+    "tools/netsh.md",
+    "tools/gzip.md",
+    "coding/kafka/notes.md",
+    "software_engineering/concepts/design pattern.md",
+    "quicknote/dev tools.md",
+    "coding/rabbitmq/notes.md",
+    "software_engineering/libraries.md",
+    "coding/p5/guide.md",
+    "todo/learn.md",
+    "Untitled.md"
+  ]
+}
