@@ -27,3 +27,30 @@ Class have methods to build up object's properties which rather than using const
 		}
 	}
 ### 4. Factory
+Function that can determine which object to create or instantiate
+class VehicleFactory{
+	createVehicle(string type) {
+		if (type === "car") {
+			return new CreateCar();
+		} else {
+			return new CreateOther();
+		}
+	}
+}
+### 5. Facade
+Wrap components or functions to another function to the small detail.
+
+### 6. Proxy / Substitute
+Create object from original one to handle various operation.
+
+### 7. Iterator
+Add iterate functionality to a collection.
+
+### 8. Observer
+Callback to subscriber
+
+### 9. Mediator
+Middleware to control every components.
+
+### 10. State
+Create states of an object that determine object's behaviour.

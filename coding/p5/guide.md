@@ -15,12 +15,12 @@ https://editor.p5js.org/
 ## Base
 ```javascript
 // initialisation function
-// execute once at start
+// executed at start
 function setup() {
 	//...
 }
 
-// execute each frame
+// executed each frame
 function draw() {
 	//...
 }
